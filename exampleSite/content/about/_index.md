@@ -3,7 +3,6 @@ title: About
 description: 'Dedicated to providing a safer, healthier alternative to harsh environment
   damaging cleaning chemicals. '
 featured_image: ''
-draft: true
 
 ---
 {{< figure src="/images/Victor_Hugo-Hunchback.jpg" title="Illustration from Victor Hugo et son temps (1881)" >}}
