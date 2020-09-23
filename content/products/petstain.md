@@ -5,7 +5,7 @@ draft: true
 featured_image: "/images/PetStain3.jpg"
 title: "PROBAC PET STAIN & ODOUR REMOVER"
 ---
-![Pet Stain & Odour Remover](/images/petstain.jpg)
+![Pet Stain & Odour Remover](/assets/images/petstain.jpg)
 
 
 
