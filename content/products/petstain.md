@@ -5,5 +5,11 @@ draft: true
 featured_image: "/images/PetStain3.jpg"
 title: "PROBAC PET STAIN & ODOUR REMOVER"
 ---
+![Pet Stain & Odour Remover](/images/petstain.jpg)
+
+
+
+
+
 Probac Pet Stain & Odour Remover is a product that will remove and neutralize odurs caused by those pets little 'oops' moments.
 It will neutralize and remove smells within 30 to 40 seconds and also digest and remove any stains caused by feaces on carpets or floors, although not as fast as 30 to 40 seconds, but takes a bit longer.
