@@ -2,7 +2,7 @@
 title: "Petstain"
 date: 2020-09-04T13:46:40+02:00
 draft: true
-featured_image: "/images/PetStain1.jpg"
+featured_image: "/images/PetStain3.jpg"
 title: "PROBAC PET STAIN & ODOUR REMOVER"
 ---
 Probac Pet Stain & Odour Remover is a product that will remove and neutralize odurs caused by those pets little 'oops' moments.

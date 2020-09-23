@@ -1,6 +1,6 @@
 ---
 title: "ENVIROSAFE CLEANSING SOLUTIONS"
-featured_image: = '/images/gohugo-default-sample-hero-image.jpg'
+bg_image: = '/images/dawn2.jpg'
 description: "A HEALTIER EARTH FRIENDLY ALTERNATIVE TO CLEANING AND MAINTENENCE PRODUCTS"
 ---
 Welcome to my blog 
