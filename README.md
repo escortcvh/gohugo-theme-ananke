@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Ananke, A theme for [Hugo](http://gohugo.io/), a framework for building websites.
 
 The intent of this theme is to provide a solid starting place for Hugo sites with basic features and include best practices for performance, accessibility, and rapid development.
@@ -189,3 +190,8 @@ If you find a bug or have an idea for a feature, feel free to use the [issue tra
 TODO:
 
 - fix hard-coded link to [section](https://github.com/budparr/gohugo-theme-ananke/blob/master/layouts/index.html#L32)
+=======
+# vince-blog
+my repository
+This is a test repo in order to understand the transfer of files from my computer to the github site.
+>>>>>>> 67820174f529cd5089da950f06ffcc3aaed5c2ce
