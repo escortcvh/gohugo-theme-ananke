@@ -1,3 +1,12 @@
+<<<<<<< HEAD
 [submodule "themes/ananke"]
 	path = themes/ananke
 	url = https://github.com/budparr/gohugo-theme-ananke.git
+=======
+[submodule "themes/theme-ananke"]
+path = themes/theme-ananke
+url = "https://github.com/theNewDynamic/gohugo-theme-ananke"
+[submodule "ananke"]
+	path = ananke
+	url = /home/vincent/Sites/vince-blog/themes/theme/ananke
+>>>>>>> 26e89b9cd7f80f80d55741ce766f46b83ef4d4f1

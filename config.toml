@@ -1,6 +1,8 @@
 title = "Envirosafe Cleansing Solutions"
-baseURL = "http://escortcvh/vince-blog.github.io"
+baseURL = "https://github.com/escortcvh/gohugo-theme-ananke"
 languageCode = "en-us"
+theme = "ananke"
+=======
 theme = "ananke"
 featured_image = "/images/dawn2.jpg"
 DefaultContentLanguage = "en"
