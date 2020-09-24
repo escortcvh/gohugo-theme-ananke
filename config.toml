@@ -1,10 +1,8 @@
-title = "Envirosafe Cleansing Solutions"
-baseURL = "http://escortcvh/vince-blog.github.io"
-=======
 title = "Vince's News Blog"
 baseURL = ""
 languageCode = "en-us"
 theme = "theme-ananke"
+
 featured_image = "/images/dawn2.jpg"
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
