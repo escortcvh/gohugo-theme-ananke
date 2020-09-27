@@ -2,12 +2,8 @@ title = "Envirosafe Cleansing Solutions"
 baseURL = ""
 languageCode = "en-us"
 theme = "ananke"
-title = "Vince's News Blog"
-baseURL = ""
-languageCode = "en-us"
-theme = "theme-ananke"
-
 featured_image = "/images/dawn2.jpg"
+
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
 Paginate = 10 # this is set low for demonstrating with dummy content. Set to a higher number
