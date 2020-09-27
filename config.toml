@@ -2,6 +2,11 @@ title = "Envirosafe Cleansing Solutions"
 baseURL = ""
 languageCode = "en-us"
 theme = "ananke"
+=======
+title = "Vince's News Blog"
+baseURL = ""
+languageCode = "en-us"
+theme = "theme-ananke"
 
 featured_image = "/images/dawn2.jpg"
 DefaultContentLanguage = "en"

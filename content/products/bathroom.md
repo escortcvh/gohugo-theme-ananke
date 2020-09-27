@@ -9,4 +9,8 @@ image: ""
 ![our leaf](/img/enviroleaf.jpeg)
 
 **Probac Bathroom Cleaner will clean and sanitize all sufaces in the bathroom all over walls and floors and roofs too!!!**
+=======
+![bathroom](/images/bathroom.png)
 
+
+file:///home/vincent/vince-blog/images/image0001.png
