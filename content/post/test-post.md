@@ -1,17 +1,15 @@
 ---
 title: "Test Post"
 description: "To test embedding a file"
-featured_Image: ""
+featured_Image: "/img/savannah.jpg"
 date: 2020-09-22T07:14:30+02:00
 title: "File inserting testing"
-draft: true
+draft: false
 ---
 
-![how to] 
-image: images/webp_Tutorial.png
+[Link text](/images/Leaf1.png)
 
-![Example image](/static/image.png)
+![Alt text](/img/savannah.jpg)
 
-![Example image](/static/image.png)
-
+``
 
