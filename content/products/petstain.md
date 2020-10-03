@@ -1,18 +1,41 @@
 ---
-title: "Petstain"
+title: "PROBAC PET STAIN & ODOUR REMOVER"
 date: 2020-09-04T13:46:40+02:00
 draft: false
-featured_image: "/images/rabbit.jpg"
-title: "PROBAC PET STAIN & ODOUR REMOVER"
-background_color_class: "bg-blue"
+featured_image:  "/images/curled-up.jpg"
+DESCRIPTION: ""
 ---
-![PetStain & Odour Remover](/product/PetStain3.jpg)
-=======
-![Pet Stain & Odour Remover](/assets/images/petstain.jpg)
+![PetStain & Odour Remover](/images/petstain.jpg)
+
+# PET STAIN & ODOUR REMOVER
+
+Deep cleaning and odour control of all surfaces
+affected by pet stains and odours. 
+
+De-stains and deodorises by means of probiotic microbial activity
+
+Deep cleans at a microscopic level, ***achieving
+sustainable microbial stability for up to three days
+after cleaning***
+
+Residual cleaning effect – surfaces stay cleaner
+for longer
+
+Biodegrades organic dirt instead of chemical
+lifting and shifting
+
+Safe to use and beneficial for Grey Water
+and Septic Tank systems
+
+Phosphate and nonylphenol free
+
+ENVIRONMENTAL BEST PRACTICE
+
+>**CLEANING THE WAY NATURE INTENDED**
 
 
 
 
 
-Probac Pet Stain & Odour Remover is a product that will remove and neutralize odurs caused by those pets little 'oops' moments.
-It will neutralize and remove smells within 30 to 40 seconds and also digest and remove any stains caused by feaces on carpets or floors, although not as fast as 30 to 40 seconds, but takes a bit longer.
+
+

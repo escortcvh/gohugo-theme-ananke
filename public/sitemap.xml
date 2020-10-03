@@ -3,103 +3,187 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://escortcvh/vince-blog.github.io/</loc>
+    <loc>/</loc>
+    <lastmod>2020-09-29T11:37:23+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/products/soil/</loc>
+    <lastmod>2020-09-29T11:37:23+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/products/outdoor/</loc>
+    <lastmod>2020-09-29T11:34:11+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/products/grey/</loc>
+    <lastmod>2020-09-29T11:33:47+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/products/carpet/</loc>
+    <lastmod>2020-09-29T11:33:14+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/products/toilet/</loc>
+    <lastmod>2020-09-29T11:32:48+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/products/wall/</loc>
+    <lastmod>2020-09-29T11:31:43+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/products/hand/</loc>
+    <lastmod>2020-09-29T11:31:06+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/products/septic/</loc>
+    <lastmod>2020-09-29T11:30:41+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/products/drain/</loc>
+    <lastmod>2020-09-29T11:30:11+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/product-information/</loc>
+    <lastmod>2020-09-28T12:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/products/kitchen/</loc>
+    <lastmod>2020-09-27T06:34:36+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/product-information/drain/</loc>
+    <lastmod>2020-09-22T07:14:30+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/products/bathroom/</loc>
+    <lastmod>2020-09-21T10:05:27+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/products/petstain/</loc>
     <lastmod>2020-09-04T13:46:40+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://escortcvh/vince-blog.github.io/products/petstain/</loc>
-    <lastmod>2020-09-04T13:46:40+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://escortcvh/vince-blog.github.io/products/</loc>
+    <loc>/products/</loc>
     <lastmod>2020-09-04T13:06:01+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://escortcvh/vince-blog.github.io/post/chapter-4/</loc>
+    <loc>/product-information/petstain/</loc>
     <lastmod>2020-04-12T11:14:48-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://escortcvh/vince-blog.github.io/tags/scene/</loc>
+    <loc>/tags/scene/</loc>
     <lastmod>2020-04-12T11:14:48-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://escortcvh/vince-blog.github.io/tags/</loc>
+    <loc>/tags/</loc>
     <lastmod>2020-04-12T11:14:48-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://escortcvh/vince-blog.github.io/post/chapter-6/</loc>
+    <loc>/product-information/greywater/</loc>
     <lastmod>2017-04-14T11:25:05-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://escortcvh/vince-blog.github.io/post/chapter-5/</loc>
+    <loc>/product-information/bathroom/</loc>
     <lastmod>2017-04-13T11:15:58-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://escortcvh/vince-blog.github.io/post/chapter-3/</loc>
+    <loc>/product-information/toilet/</loc>
     <lastmod>2017-04-11T11:13:32-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://escortcvh/vince-blog.github.io/post/chapter-2/</loc>
+    <loc>/product-information/carpet/</loc>
     <lastmod>2017-04-10T11:00:59-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://escortcvh/vince-blog.github.io/post/chapter-1/</loc>
+    <loc>/product-information/wallfloor/</loc>
     <lastmod>2017-04-09T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://escortcvh/vince-blog.github.io/post/</loc>
-    <lastmod>2017-03-02T12:00:00-05:00</lastmod>
+    <loc>/about/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://escortcvh/vince-blog.github.io/categories/</loc>
+    <loc>/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://escortcvh/vince-blog.github.io/contact/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://escortcvh/vince-blog.github.io/about/</loc>
+    <loc>/contact/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>

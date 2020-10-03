@@ -1,18 +1,117 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Products on Envirosafe Cleansing Solutions</title>
-    <link>http://escortcvh/vince-blog.github.io/products/</link>
-    <description>Recent content in Products on Envirosafe Cleansing Solutions</description>
+    <title>Cool Products on Envirosafe Cleansing Solutions</title>
+    <link>/products/</link>
+    <description>Recent content in Cool Products on Envirosafe Cleansing Solutions</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 04 Sep 2020 13:06:01 +0200</lastBuildDate><atom:link href="http://escortcvh/vince-blog.github.io/products/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 04 Sep 2020 13:06:01 +0200</lastBuildDate><atom:link href="/products/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Soil</title>
+      <link>/products/soil/</link>
+      <pubDate>Tue, 29 Sep 2020 11:37:23 +0200</pubDate>
+      
+      <guid>/products/soil/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Outdoor</title>
+      <link>/products/outdoor/</link>
+      <pubDate>Tue, 29 Sep 2020 11:34:11 +0200</pubDate>
+      
+      <guid>/products/outdoor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Grey</title>
+      <link>/products/grey/</link>
+      <pubDate>Tue, 29 Sep 2020 11:33:47 +0200</pubDate>
+      
+      <guid>/products/grey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Carpet</title>
+      <link>/products/carpet/</link>
+      <pubDate>Tue, 29 Sep 2020 11:33:14 +0200</pubDate>
+      
+      <guid>/products/carpet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Toilet</title>
+      <link>/products/toilet/</link>
+      <pubDate>Tue, 29 Sep 2020 11:32:48 +0200</pubDate>
+      
+      <guid>/products/toilet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wall</title>
+      <link>/products/wall/</link>
+      <pubDate>Tue, 29 Sep 2020 11:31:43 +0200</pubDate>
+      
+      <guid>/products/wall/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hand</title>
+      <link>/products/hand/</link>
+      <pubDate>Tue, 29 Sep 2020 11:31:06 +0200</pubDate>
+      
+      <guid>/products/hand/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Septic</title>
+      <link>/products/septic/</link>
+      <pubDate>Tue, 29 Sep 2020 11:30:41 +0200</pubDate>
+      
+      <guid>/products/septic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Drain</title>
+      <link>/products/drain/</link>
+      <pubDate>Tue, 29 Sep 2020 11:30:11 +0200</pubDate>
+      
+      <guid>/products/drain/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kitchen Cleaner</title>
+      <link>/products/kitchen/</link>
+      <pubDate>Sun, 27 Sep 2020 06:34:36 +0200</pubDate>
+      
+      <guid>/products/kitchen/</guid>
+      <description>Probac Kitchen Cleaner will clean and remove all dirt, grime and harmfull bacteria from surfaces in your kitchen and has a residual effect for up to 3 days!</description>
+    </item>
+    
+    <item>
+      <title>Probac Bathroom Cleaner</title>
+      <link>/products/bathroom/</link>
+      <pubDate>Mon, 21 Sep 2020 10:05:27 +0200</pubDate>
+      
+      <guid>/products/bathroom/</guid>
+      <description>Probac Bathroom Cleaner will clean and sanitize all sufaces in the bathroom all over walls and floors and roofs too!!!</description>
+    </item>
+    
     <item>
       <title>PROBAC PET STAIN &amp; ODOUR REMOVER</title>
-      <link>http://escortcvh/vince-blog.github.io/products/petstain/</link>
+      <link>/products/petstain/</link>
       <pubDate>Fri, 04 Sep 2020 13:46:40 +0200</pubDate>
       
-      <guid>http://escortcvh/vince-blog.github.io/products/petstain/</guid>
+      <guid>/products/petstain/</guid>
       <description>Probac Pet Stain &amp;amp; Odour Remover is a product that will remove and neutralize odurs caused by those pets little &amp;lsquo;oops&amp;rsquo; moments. It will neutralize and remove smells within 30 to 40 seconds and also digest and remove any stains caused by feaces on carpets or floors, although not as fast as 30 to 40 seconds, but takes a bit longer.</description>
     </item>
     
