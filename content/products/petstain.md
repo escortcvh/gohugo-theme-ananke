@@ -2,7 +2,7 @@
 title: "PROBAC PET STAIN & ODOUR REMOVER"
 date: 2020-09-04T13:46:40+02:00
 draft: false
-featured_image:  "/images/curled-up.jpg"
+featured_image:  "images/curled-up.jpg"
 DESCRIPTION: ""
 ---
 ![PetStain & Odour Remover](/images/petstain.jpg)
