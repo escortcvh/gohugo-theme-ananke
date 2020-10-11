@@ -20,7 +20,7 @@ Deep cleans at a microscopic level, ***achieving
 sustainable microbial stability for up to three days***
 after cleaning
 
-Residual cleaning effect
+Residual cleaning effect - Surfaces stay cleaner for longer
 
 Biodegrades organic dirt instead of chemical
 lifting and shifting

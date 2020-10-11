@@ -1,5 +1,5 @@
 ---
-title: "PROBAC WALL & TILE CLEANER"
+title: "PROBAC FLOOR & TILE CLEANER"
 date: 2020-09-29T11:31:43+02:00
 draft: false
 tags: []

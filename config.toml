@@ -1,4 +1,4 @@
-title = "**HOME PAGE**"
+title = "HOME"
 baseURL = ""
 languageCode = "en-us"
 theme = "ananke"
@@ -6,7 +6,7 @@ featured_image = "/images/dawn2.jpg"
 
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
-Paginate = 16 # this is set low for demonstrating with dummy content. Set to a higher number
+Paginate = 50 # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics = ""
 enableRobotsTXT = true
 
@@ -25,6 +25,6 @@ enableRobotsTXT = true
   github = ""
   linkedin = ""
   # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
-  background_color_class = "bg-blue"
+  background_color_class = "bg-green"
   featured_image = "/images/dawn2.jpg"
   recent_posts_number = 16
