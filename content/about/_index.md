@@ -1,7 +1,7 @@
 ---
 title: "ENVIRO SAFE CLEANSING SOLUTIONS"
 description: "PROVIDING SAFER AND HEALTHIER ALTERNATIVES TO REPLACE HARSH CHEMICALS USED IN CLEANING AND MAINTENENCE"
-featured_image: '/img/beach1.jpg'
+featured_image: "img/beach1.jpg"
 ---
 {{< figure src="/images/pe4.jpg" title="Port Elizabeth" >}}
 

@@ -22,7 +22,7 @@ These bacteria overwhelm and outcompete the unwanted smell-causing bacteria and 
 
 PROBAC GWT beneficial bacteria are selected for their by-product, which is odourless CO2. 
 
-By predominating the field and banishing unwanted bacteria and pathogens, no bad smell is emitted or experienced, producing relatively clean water that remains odour free and safe for re-use for irrigating or toilet flushing, for up to 3-4 days, by which time it should be used.
+By predominating the field and banishing unwanted bacteria and pathogens, no bad smell is emitted or experienced, producing relatively clean water that remains odour free and safe for re-use for garden and lawn irrigating or toilet flushing, for up to 3-4 days, by which time it should be used.
 
 NOTE: PROBAC beneficial bacteria are Category 1 Micro-organisms in the same class as medicinal probiotics, and are
 harmless to humans and animals for dermal contact, inhalation and ingestion.

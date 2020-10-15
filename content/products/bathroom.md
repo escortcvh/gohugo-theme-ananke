@@ -2,7 +2,7 @@
 title: "PROBAC BATHROOM CLEANER"
 date: 2020-09-21T10:05:27+02:00
 draft: false
-featured_image: "/product/bathroom.webp"
+featured_image: "/product/bathroom1.png"
 title: "Probac Bathroom Cleaner"
 ---
 ![our leaf](/product/bathroom.webp)
