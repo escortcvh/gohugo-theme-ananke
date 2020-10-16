@@ -9,7 +9,7 @@ We provide Port Elizabeth and surrounds with  earth friendly alternatives, for c
 
 ***SO LETS BE RESPONSIBLE AND GO GREEN!*** 
 
-If you live in Port Elizabeth, or are coming here for the day and are interested in moving over to safer and healthier alternatives to your every day cleaning products, then please have a look at our product range of **"GREEN"** alternatives and give us a call for more information on products that won't cost us the earth.
+If you live in Port Elizabeth, or are coming here for the day and are interested in moving over to safer and healthier alternatives to your everyday cleaning products, then please have a look at our product range of **"GREEN"** alternatives and give us a call for more information on products that won't cost us the earth.
 
 ![Alt text](/images/pe3.jpg)
 
