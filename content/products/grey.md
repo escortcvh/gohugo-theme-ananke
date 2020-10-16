@@ -3,7 +3,7 @@ title: "PROBAC GREYWATER TREATMENT"
 date: 2020-09-29T11:33:47+02:00
 tags: []
 featured_image: "/product/grey-water.jpg"
-description: "Rejuvenates dirty soapy water and can use in the garden"
+description: "Rejuvenates dirty soapy water for use in the garden or toilet in drought areas"
 draft: false
 ---
 ![Alt text](/product/grey-water.jpg)

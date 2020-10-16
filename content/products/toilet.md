@@ -11,9 +11,9 @@ description: ""
 **Probac Toilet and Urinal Cleaner** is a complete biological solution for deep cleaning and control of toilets and urinals
 
 
-### PROBAC TOILET CLEANER
 
-PROBAC® probiotics actively biodegrades organic dirt in the
+
+Probac toilet cleaner probiotics actively biodegrades organic dirt in the
 process of cleaning while also offering the unique benefit of
 on-going deep cleaning and odour control at a microscopic
 level. 

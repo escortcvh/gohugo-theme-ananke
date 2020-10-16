@@ -1,5 +1,5 @@
 ---
-title: "PROBAC DRAIN MAINTENENCE CLEANER"
+title: "PROBAC DRAIN MAINTENANCE CLEANER"
 date: 2020-09-29T11:30:11+02:00
 draft: false
 tags: []
@@ -7,7 +7,7 @@ featured_image: "/product/drain.jpg"
 description: ""
 ---
 ![Alt text](/product/drain.jpg)
-# DRAIN MAINTENENCE CLEANER
+# DRAIN MAINTENANCE CLEANER
 
 Non-toxic, non caustic, non acidic
 Hyper-accelerated bio-

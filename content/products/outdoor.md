@@ -11,7 +11,7 @@ description: ""
 # OUTDOOR & BIN CLEANER
 
 Deep cleaning and odour control of bins, bin rooms,
-pet areas, out-door furniture and BBQ areas. 
+pet areas, out-door furniture and braai areas. 
 
 De-stains and deodorises by means of probiotic
 microbial activity
