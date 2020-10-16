@@ -17,7 +17,7 @@ enableRobotsTXT = true
 
 [params]
   favicon = "/images/Leaf1.png"
-  site_logo = "/images/enviroleaf.jpeg"
+  site_logo = "/images/enviroleaf1.jpeg"
   description = "Cleaning the environment as nature intended."
   facebook = "hallvince13@gmail.com"
   instagram = ""
