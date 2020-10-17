@@ -17,7 +17,7 @@ description: ""
 • Provides rapid system recovery and
   helps eliminate shock kills
 
-• Eliminates odor caused by organic build-
+• Eliminates odour caused by organic build-
   up
 
 • Reduces frequency of pumping and

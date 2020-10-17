@@ -13,7 +13,7 @@ description: ""
 Deep cleaning and odour control of bins, bin rooms,
 pet areas, out-door furniture and braai areas. 
 
-De-stains and deodorises by means of probiotic
+De-stains and deodorizes by means of probiotic
 microbial activity
 
 Deep cleans at a microscopic level, ***achieving
@@ -38,7 +38,7 @@ PROBAC® Outdoor & Bin Cleaner is of the highest quality, formulated using purel
 specific PROBIOTICS. 
 
 This high concentrate performance product is designed for deep cleaning and odour control of all outdoor pet
-areas, bin areas, bins, kennels, BBQ areas, and outdoor furniture, and makes cleaning a breeze while being safer for your health and
+areas, bin areas, bins, kennels, braai areas, and outdoor furniture, and makes cleaning a breeze while being safer for your health and
 good for the environment. 100% plant based readily biodegradable ingredients
 
 Power packed with PROBIOTICS

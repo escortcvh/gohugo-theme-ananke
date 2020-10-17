@@ -34,19 +34,19 @@ ENVIRONMENTAL BEST PRACTICE
 
 A unique, effective biogenic
 chemistry for total bathroom
-deep cleaning and deodorizing at a microscopic
+deep cleaning and deodorising at a microscopic
 level.
 
 PROBAC BATHROOM CLEANER
 is a technologically advanced deep
-cleaner and deodorizer formulated for organic
+cleaner and deodoriser formulated for organic
 waste common to all bathroom surfaces,
 baths, showers, basins and toilets. 
 
 >**PROBAC BATHROOM CLEANER combines:**
 
 >>• ***A novel bio-chemical formulation for
-immediate odor control***
+immediate odour control***
 
 >>• ***A unique surfactant package for lifting dirt
 and stains***
@@ -56,13 +56,13 @@ benefits of pro-bacterial bio-chemistry***
 
 How does PROBAC BATHROOM CLEANER work?
 
-The chemistry for immediate odor control and biogenic
+The chemistry for immediate odour control and biogenic
 (bacterial) components targets odorous compounds for
 degradation. 
 
 The specialized pro-bacteria in PROBAC BATHROOM CLEANER then biodegrade the organic
-compounds that cause odor and staining, breaking
-them down to benign and odorless compounds such as
+compounds that cause odour and staining, breaking
+them down to benign and odourless compounds such as
 carbon dioxide and water.
 
 >**Organic residues become harmless CO2 & H2O**

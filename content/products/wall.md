@@ -24,7 +24,7 @@ for longer
 Biodegrades organic dirt instead of chemical
 lifting and shifting
 
-Not a bucket wash process. No rinsing required.
+**Not a bucket wash process. No rinsing required.**
 
 Safe to use and beneficial for Grey Water
 and Septic Tank systems

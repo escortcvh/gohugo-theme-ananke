@@ -30,7 +30,7 @@ Cleaner) offers the ability to regain and
 maintain control of restaurant grease
 trap operations. 
 
-Our new improved solution helps eliminate drain blockages,reduce embarrassing odors, and eliminate expensive
+Our new improved solution helps eliminate drain blockages,reduce embarrassing odours, and eliminate expensive
 plumbing repairs and maintenance.
 
 Probac® DMC can accomplish this like no other product because it leverages biological processes that are already underway in the grease trap and drainpipe environment.
@@ -45,14 +45,14 @@ directly into the wastewater system.
 Good kitchen
 practices and regular manual cleaning are normally
 required or drain stoppages, back-ups, and severe
-malodors will occur. 
+offensive smells will occur. 
 
 Repairs to clogged systems are
 expensive and can result in costly interventions, and
 disruption and inconvenience to the restaurant
-operation and neighboring tenants.
+operation and neighbouring tenants.
 
-Overpowering malodors bring health inspectors and
+Overpowering repulsive smells bring health inspectors and
 displeases workers and customers alike. 
 
 High effluent

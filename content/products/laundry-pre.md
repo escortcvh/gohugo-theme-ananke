@@ -17,7 +17,7 @@ description: ""
 PROBAC® Biologicals combines non-harmful natural elements with beneficial bacteria that
 actively biodegrade dirt in the process of cleaning. 
 
-PROBAC® Biologicals, with its unique REFRESH ODORTECHTM technology, deep cleans and blocks odors safely at a microscopic
+PROBAC® Biologicals, with its unique REFRESH ODORTECHTM technology, deep cleans and blocks odours safely at a microscopic
 level for a lasting effect on linen and clothing, as well as the environment.
 
 The PROBAC Biologicals range of household and institutional cleaners is available in concentrates for diluting, and in convenient re-usable trigger packs, which saves you money
@@ -32,8 +32,8 @@ lifting dirt and stains
 - A novel biological formulation for in situ
 biodegradation of soils
 
-- A unique chemistry for binding odor
-molecules with unmatched odor control
+- A unique chemistry for binding odour
+molecules with unmatched odour control
 
 ORGANIC DIRT → CO 2 & H 2 O
 
@@ -43,7 +43,7 @@ ORGANIC DIRT → CO 2 & H 2 O
 deposits and lift this dirt off the surfaces that are being
 cleaned
 
-2. The chemistry for immediate odor control binds odor
+2. The chemistry for immediate odour control binds odour
 molecules at the source so that they do not travel to the
 nose
 

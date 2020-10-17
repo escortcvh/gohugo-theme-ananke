@@ -10,9 +10,15 @@ DESCRIPTION: ""
 # PET STAIN & ODOUR REMOVER
 
 Deep cleaning and odour control of all surfaces
-affected by pet stains and odours. 
+affected by pet stains and odours.
 
-De-stains and deodorises by means of probiotic microbial activity
+**Probac Pet Stain & Odour Remover will neutralize and remove all those "oops" moments that your pets occasionally have.**
+
+>*Generally, within 30 - 40 seconds after application, Probac Pet Stain & Odour Remover will neutralize all offensive odours caused by urine and, after removal of any solids, then sprayed and allowed to dry, will digest and remove stains as well.*
+
+For old or deep seated stains that have been allowed to penetrate carpets, have gone into the underlay and have dried, more than one application will be necessary.
+
+De-stains and deodorizes by means of probiotic microbial activity
 
 Deep cleans at a microscopic level, ***achieving
 sustainable microbial stability for up to three days
