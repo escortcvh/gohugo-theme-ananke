@@ -1,7 +1,7 @@
 ---
 title: "PROBAC LIQUID HAND WASH"
 date: 2020-09-29T11:31:06+02:00
-draft: true
+draft: false
 tags: []
 featured_image: "/product/handsoap1.jpg"
 description: ""
