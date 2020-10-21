@@ -7,7 +7,7 @@ featured_image = "/images/dawn2.jpg"
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
 Paginate = 50 # this is set low for demonstrating with dummy content. Set to a higher number
-googleAnalytics = ""
+googleAnalytics = "UA-18099858-1"
 enableRobotsTXT = true
 
 [sitemap]
@@ -19,7 +19,7 @@ enableRobotsTXT = true
   favicon = "/images/Leaf1.png"
   site_logo = "/images/enviroleaf1.jpeg"
   description = "Cleaning the environment as nature intended."
-  facebook = "https://www.facebook.com/hallvince13@gmail.com"
+  facebook = "https://www.facebook.com/vince.hall.5268750"
   instagram = ""
   youtube = ""
   github = ""

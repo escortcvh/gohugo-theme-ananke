@@ -7,8 +7,8 @@ draft: false
 description: ""
 ---
 
+![Alt text](/img/sick_teddy.jpg)
 
-![Alt text](/images/fiord1.webp)
 
 How does PROBAC help combat Covid 19 contamination?
 
@@ -35,3 +35,4 @@ We believe that it is even more so, specifically in relation to the Covid 19 pan
 Stay safe
 
 PROBAC team
+![Alt text](/img/face_masks.jpg)
