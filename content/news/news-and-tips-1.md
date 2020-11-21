@@ -5,6 +5,6 @@ tags: []
 featured_image: "/img/coffee.jpg"
 author: Vincent Hall
 draft: true
-description: "Weekly Tips & News"
+description: "Tips & News"
 ---
 ***Things to Pass On.  Things to Share***
